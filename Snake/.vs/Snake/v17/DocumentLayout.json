@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartosz\\source\\repos\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\mapconfigurator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\mapconfigurator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\mapconfigurator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\mapconfigurator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\mapsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\mapsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\snake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\snake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\snakeconfigurator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\snakeconfigurator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\snakeconfigurator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\snakeconfigurator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|c:\\users\\bartosz\\source\\repos\\snake\\snake\\gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84223185-4432-47A4-B62A-54D2FAFB289F}|Snake\\Snake.csproj|solutionrelative:snake\\gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapSize.cs",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MapSize.cs",
+              "RelativeDocumentMoniker": "Snake\\MapSize.cs",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MapSize.cs",
+              "RelativeToolTip": "Snake\\MapSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:05:31.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapConfigurator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MapConfigurator.xaml.cs",
+              "RelativeDocumentMoniker": "Snake\\MapConfigurator.xaml.cs",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MapConfigurator.xaml.cs",
+              "RelativeToolTip": "Snake\\MapConfigurator.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:50:25.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapConfigurator.xaml",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MapConfigurator.xaml",
+              "RelativeDocumentMoniker": "Snake\\MapConfigurator.xaml",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MapConfigurator.xaml",
+              "RelativeToolTip": "Snake\\MapConfigurator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T22:48:04.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SnakeConfigurator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\SnakeConfigurator.xaml.cs",
+              "RelativeDocumentMoniker": "Snake\\SnakeConfigurator.xaml.cs",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\SnakeConfigurator.xaml.cs",
+              "RelativeToolTip": "Snake\\SnakeConfigurator.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:38:39.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SnakeConfigurator.xaml",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\SnakeConfigurator.xaml",
+              "RelativeDocumentMoniker": "Snake\\SnakeConfigurator.xaml",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\SnakeConfigurator.xaml",
+              "RelativeToolTip": "Snake\\SnakeConfigurator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T21:35:35.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\Menu.xaml",
+              "RelativeDocumentMoniker": "Snake\\Menu.xaml",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\Menu.xaml",
+              "RelativeToolTip": "Snake\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T17:48:38.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "Snake\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\Menu.xaml.cs",
+              "RelativeToolTip": "Snake\\Menu.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:50:02.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Snake\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MainWindow.xaml",
+              "RelativeToolTip": "Snake\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T16:34:17.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Snake\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Snake\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:34:14.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GridValue.cs",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\GridValue.cs",
+              "RelativeDocumentMoniker": "Snake\\GridValue.cs",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\GridValue.cs",
+              "RelativeToolTip": "Snake\\GridValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:44:05.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Snake",
+              "DocumentMoniker": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\Snake.csproj",
+              "RelativeDocumentMoniker": "Snake\\Snake.csproj",
+              "ToolTip": "C:\\Users\\Bartosz\\source\\repos\\Snake\\Snake\\Snake.csproj",
+              "RelativeToolTip": "Snake\\Snake.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T17:45:42.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

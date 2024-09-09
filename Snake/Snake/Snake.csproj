@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Body.png" />
+    <None Remove="Assets\DeadBody.png" />
+    <None Remove="Assets\DeadHead.png" />
+    <None Remove="Assets\DroidSansMono.ttf" />
+    <None Remove="Assets\Empty.png" />
+    <None Remove="Assets\Food.png" />
+    <None Remove="Assets\Head.png" />
+    <None Remove="Assets\icon.ico" />
+    <None Remove="Assets\purple\Body.png" />
+    <None Remove="Assets\purple\DeadBody.png" />
+    <None Remove="Assets\purple\DeadHead.png" />
+    <None Remove="Assets\purple\Head.png" />
+    <None Remove="Assets\yellow\Body.png" />
+    <None Remove="Assets\yellow\DeadBody.png" />
+    <None Remove="Assets\yellow\DeadHead.png" />
+    <None Remove="Assets\yellow\Head.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Body.png" />
+    <Resource Include="Assets\DeadBody.png" />
+    <Resource Include="Assets\DeadHead.png" />
+    <Resource Include="Assets\DroidSansMono.ttf" />
+    <Resource Include="Assets\Empty.png" />
+    <Resource Include="Assets\Food.png" />
+    <Resource Include="Assets\Head.png" />
+    <Resource Include="Assets\icon.ico" />
+    <Resource Include="Assets\purple\Body.png" />
+    <Resource Include="Assets\purple\DeadBody.png" />
+    <Resource Include="Assets\purple\DeadHead.png" />
+    <Resource Include="Assets\purple\Head.png" />
+    <Resource Include="Assets\yellow\Body.png" />
+    <Resource Include="Assets\yellow\DeadBody.png" />
+    <Resource Include="Assets\yellow\DeadHead.png" />
+    <Resource Include="Assets\yellow\Head.png" />
+  </ItemGroup>
+
+</Project>
